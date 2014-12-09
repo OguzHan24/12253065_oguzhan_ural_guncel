@@ -233,7 +233,7 @@ int  menu()
 		printf("İşleminiz bitmiştir... Güle güle ");
 		/* exit(); fonksiyonu Sublime text 2 de çalışmadı,terminal tarafından derlenmedi.
 		 Aşağıdaki kod çalışıyor.*/
-		exit(EXIT_SUCCESS);	
+		exit(EXIT_SUCCESS);		// exit();
 		return 0;
 	}
 
